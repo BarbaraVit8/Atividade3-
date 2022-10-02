@@ -21,4 +21,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## Enunciado do Exercício
 
-Faça um Programa que peça dois números e imprima a soma.
+Faça um Programa que peça dois números e imprima a soma
